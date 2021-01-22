@@ -1,4 +1,4 @@
-# ED-Faculgado
+# Estrutura de Dados - UnB
 ***
  Material de Estrutura de Dados da UnB.
  
